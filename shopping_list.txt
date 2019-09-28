@@ -3,3 +3,4 @@
 裤子
 鞋子
 刮胡刀
+git learn add
